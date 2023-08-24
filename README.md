@@ -10,7 +10,7 @@ Avasaz is a _state-of-the-art generative AI model_ which helps you make music fr
 
 ### Prerequisites
 
-- At least 10GB of GPU VRAM (current model is very large. In the near future, the model can be ran on a smaller GPU as well.)
+- At least 12GB of GPU VRAM (current model is very large. In the near future, the model can be ran on a smaller GPU as well.)
 - Python 3.8 and above. 
 
 ### Inference 
