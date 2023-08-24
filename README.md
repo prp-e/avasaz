@@ -5,3 +5,7 @@ Avasaz is a _state-of-the-art generative AI model_ which helps you make music fr
 <p align="center">
     <img src="https://github.com/prp-e/avasaz/blob/main/avasaz_logo.png?raw=true" width=256 height=256 />
 </p>
+
+## Setting Up the model 
+
+### Prerequisites
