@@ -15,6 +15,7 @@ Avasaz is a _state-of-the-art generative AI model_ which helps you make music fr
 
 ### Inference 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/avasaz/blob/main/Avasaz_Inference.ipynb)
 
 
 Currently, Infrerence is only available on _Colab_. Codes will be here as soon as possible. 
